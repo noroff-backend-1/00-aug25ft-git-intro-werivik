@@ -8,3 +8,6 @@ There is also a `<button>` that should switch between light and dark mode.
 ## Contributing
 
 @warren-west &copy; Noroff AS
+
+
+Hello There
